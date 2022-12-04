@@ -77,4 +77,4 @@ gradlew allureServe
 ```
 Сгенерированный отчет откроется в браузере автоматически. После просмотра и закрытия отчета можно остановить работу команды, нажав Ctrl+С или закрыть вкладку Run и нажать Disconnect.
 
->**(Created Shekhlov Vasiliy Vladimirovich.)** \
+>**(Created Shekhlov Vasiliy Vladimirovich.)**
